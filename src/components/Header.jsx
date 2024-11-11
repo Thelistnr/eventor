@@ -39,7 +39,9 @@ const Header = ({events}) => {
     return ( 
         <nav className = "flex gap-1 sm:gap-8 justify-between items-center px-4 py-3 mb-5">
             <div className="logo text-xl py-2">
-                <Link to ="/" onClick={e => {setData()}}>Logo</Link>
+                <Link to ="/" onClick={e => {setData()}}>
+                    <img src="vite.svg" alt="" className="w-16 h-auto"/>
+                </Link>
             </div>
             <div className="flex">
                 <form action="">

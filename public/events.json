@@ -1,0 +1,103 @@
+[
+    {
+      "eventId":0,
+      "title": "Food Festival",
+      "date": "2024-11-25",
+      "time":"13:00",
+      "location": "TBS, Lagos",
+      "category": "Food",
+      "image": "./image/1200.jpg",
+      "description": "This is here because I'm partial to food events.",
+      "bookmarked": true
+    },
+    {
+      "eventId":1,
+      "title": "Food Expo",
+      "date": "2024-12-01",
+      "time":"12:00",
+      "location": "Onikan Stadium",
+      "category": "Food",
+      "image": "./image/12340.jpg",
+      "description": "Same reason as above.",
+      "bookmarked": false
+    },
+    {
+      "eventId":2,
+      "title": "Food Carnival",
+      "date": "2024-11-25",
+      "time":"9:00",
+      "location": "Eagle Square",
+      "category": "Food",
+      "image": "./image/close-up-ice-cream-bowl.jpg",
+      "description": "You already know why this is here.",
+      "bookmarked": false
+    },
+    {
+      "eventId":3,
+      "title": "Food Again",
+      "date": "2024-11-25",
+      "time":"9:00",
+      "location": "Eko Hotel",
+      "category": "Food",
+      "image": "./image/1751.jpg",
+      "description": "Yes oooo, here it is again.",
+      "bookmarked": false
+    },
+    {
+      "eventId":4,
+      "title": "Werk",
+      "date": "2024-11-25",
+      "time":"9:00",
+      "location": "Stadium, Surulere",
+      "category": "Music",
+      "image": "./image/29805.jpg",
+      "description": "To balance it out.",
+      "bookmarked": false
+    },
+    {
+      "eventId":5,
+      "title": "Finance your meals",
+      "date": "2024-11-25",
+      "time":"9:00",
+      "location": "Eko Hotel",
+      "category": "Finance",
+      "image": "./image/2148285260.jpg",
+      "description": "Learn to carry 2 sure odds and finance my foodhubt hobbies.",
+      "bookmarked": true
+    },
+    {
+      "eventId":6,
+      "title": "Muze Festival",
+      "date": "2024-11-25",
+      "time":"9:00",
+      "location": "ICM, Lagos",
+      "category": "Fashion",
+      "image": "./image/front-view-woman-wearing-hat.jpg",
+      "description": "Get clothe and mashups to foodhunt with steeze.",
+      "bookmarked": false
+    },
+    {
+      "eventId":7,
+      "title": "Tech Out",
+      "date": "2024-11-25",
+      "time":"9:00",
+      "location": "Dubai",
+      "category": "Tech",
+      "image": "./image/2149126949.jpg",
+      "description": "Free dubai trip, lowkey to foodhunt.",
+      "bookmarked": false
+    },
+    {
+      "eventId":8,
+      "title": "Arted",
+      "date": "2024-11-25",
+      "time":"9:00",
+      "location": "Art Gallery",
+      "category": "Art",
+      "image": "./image/745.jpg",
+      "description": "Touch Grass and rest, lowkey find babe that will foodhunt with me.",
+      "bookmarked": false
+    }
+   
+  ]
+  

@@ -55,10 +55,10 @@ const Form = ({setEvents}) => {
                 <Link to="/">
                     < FaArrowCircleLeft size={40} />
                 </Link>
-            <div className="hello container w-full sm:[80%] lg:w-[50%] p-5 mx-auto">
+            <div className="hello container w-full sm:[80%] lg:w-[50%] p-2 sm:p-5 mx-auto">
                 < Heading name="Add an Event" />
-                <div className="w-full flex flex-col gap-4 justify-between details-card bg-[#363a3d1c] rounded-3xl p-8">
-                    <form onSubmit={handleSubmit} className="w-full flex flex-col gap-4 justify-between p-8">
+                <div className="w-full flex flex-col gap-4 justify-between details-card bg-[#363a3d1c] rounded-3xl p-4 sm:p-8">
+                    <form onSubmit={handleSubmit} className="w-full flex flex-col gap-4 justify-between sm:p-8">
                         <div className="input-group">
                             <label className="block">
                                 <span className="sr-only">Choose profile photo</span>
